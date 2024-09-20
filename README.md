@@ -1,2 +1,6 @@
-# the-tragic-trip-Reforged
+# 悲惨的旅行之路（the tragic trip）非官方续编源码
 悲惨的旅行之路（the tragic trip）非官方续编的源码
+## 版本：
++ 2.0测试版
+## 更新日志：
++ 2024/8/22 将第二段更完了。
